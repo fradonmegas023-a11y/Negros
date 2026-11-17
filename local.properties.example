@@ -1,0 +1,4 @@
+# Copy these two lines into your Android Studio local.properties file.
+# Keep the sdk.dir line Android Studio already created.
+SUPABASE_URL=https://YOUR_PROJECT_REF.supabase.co
+SUPABASE_PUBLISHABLE_KEY=sb_publishable_YOUR_KEY
